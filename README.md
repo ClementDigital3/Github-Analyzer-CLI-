@@ -1,3 +1,8 @@
+![Python](https://img.shields.io/badge/Python-3.12-blue?logo=python)
+![Status](https://img.shields.io/badge/Status-Active-success)
+![License](https://img.shields.io/badge/License-MIT-green)
+![GitHub](https://img.shields.io/badge/GitHub-CLI%20Project-black?logo=github)
+
 # GitHub Analyzer CLI Tool
 
 A clean and interactive Python command-line tool that fetches and analyzes GitHub user profiles using the GitHub API.
